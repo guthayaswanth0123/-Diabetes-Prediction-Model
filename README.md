@@ -87,12 +87,15 @@ docker run -p 8000:8000 diabetes-prediction-model
 
 ### 🌐 Live Deployment (Render) 
 
+### 🔗 Live Application
 ```
-🔗 Live Application: https://mymodel-3uyv.onrender.com 
-📘 API Documentation / Model Testing (Swagger UI) 
+https://mymodel-3uyv.onrender.com
+```
+### 📘 API Documentation / Model Testing (Swagger UI) 
+```
 https://mymodel-3uyv.onrender.com/docs 
-You can directly open the /docs link and test the /predict endpoint with sample input JSON.
 ```
+You can directly open the /docs link and test the /predict endpoint with sample input JSON.
 
 🙌 Credits
 
